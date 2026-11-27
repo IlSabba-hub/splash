@@ -1,0 +1,1 @@
+../../../../app/Sources/Splash/Installer.swift
